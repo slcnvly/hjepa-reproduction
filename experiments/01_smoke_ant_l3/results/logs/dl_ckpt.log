@@ -1,0 +1,9 @@
+
+Fetching 2 files:   0%|          | 0/2 [00:00<?, ?it/s]
+Fetching 2 files:  50%|█████     | 1/2 [00:00<00:00,  1.23it/s]
+Fetching 2 files: 100%|██████████| 2/2 [00:01<00:00,  1.01s/it]
+Fetching 2 files: 100%|██████████| 2/2 [00:01<00:00,  1.02it/s]
+[32m✓ Downloaded[0m
+  path: /kaggle/working/hjepa/ckpts
+-rw-r--r-- 1 root root 139538683 Oct 10 07:02 /kaggle/working/hjepa/ckpts/ant/ant_hjepa_l3/seed42/ant_hjepa_l3_object.ckpt
+-rw-r--r-- 1 root root      3071 Oct 10 07:02 /kaggle/working/hjepa/ckpts/ant/ant_hjepa_l3/seed42/normalizer.pt

@@ -1,0 +1,6 @@
+warning: The `--system` flag has no effect, `uv venv` always ignores virtual environments when finding a Python interpreter; did you mean `--no-managed-python`?
+Downloading cpython-3.11.13-linux-x86_64-gnu (download) (28.8MiB)
+ Downloaded cpython-3.11.13-linux-x86_64-gnu (download)
+Using CPython 3.11.13
+Creating virtual environment at: /kaggle/temp/venv311
+Activate with: source /kaggle/temp/venv311/bin/activate

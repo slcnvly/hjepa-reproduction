@@ -1,0 +1,15 @@
+/kaggle/working/hjepa/ckpts/ant/ant_hjepa_l3/seed42/smoke:
+total 16
+drwxr-xr-x 3 root root 4096 Oct 10 07:03 .
+drwxr-xr-x 3 root root 4096 Oct 10 07:03 ..
+drwxr-xr-x 2 root root 4096 Oct 10 07:06 chunks
+-rw-r--r-- 1 root root 2658 Oct 10 07:03 eval_config.yaml
+
+/kaggle/working/hjepa/ckpts/ant/ant_hjepa_l3/seed42/smoke/chunks:
+total 24
+drwxr-xr-x 2 root root  4096 Oct 10 07:06 .
+drwxr-xr-x 3 root root  4096 Oct 10 07:03 ..
+-rw-r--r-- 1 root root 13778 Oct 10 07:06 tasks_000-001.json
+name, memory.used [MiB], memory.total [MiB]
+Tesla T4, 0 MiB, 15360 MiB
+Tesla T4, 0 MiB, 15360 MiB

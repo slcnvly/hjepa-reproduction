@@ -1,0 +1,16 @@
+mujoco 3.14.0
+render ok (64, 64, 3) mean 37.1298828125
+Exception ignored in: <function Renderer.__del__ at 0x7bc8b4789760>
+Traceback (most recent call last):
+  File "/kaggle/temp/venv311/lib/python3.11/site-packages/mujoco/rendering/classic/renderer.py", line 349, in __del__
+  File "/kaggle/temp/venv311/lib/python3.11/site-packages/mujoco/rendering/classic/renderer.py", line 335, in close
+  File "/kaggle/temp/venv311/lib/python3.11/site-packages/mujoco/egl/__init__.py", line 134, in free
+  File "/kaggle/temp/venv311/lib/python3.11/site-packages/OpenGL/platform/baseplatform.py", line 487, in __call__
+  File "/kaggle/temp/venv311/lib/python3.11/site-packages/OpenGL/error.py", line 230, in glCheckError
+OpenGL.raw.EGL._errors.EGLError: <exception str() failed>
+Exception ignored in: <function GLContext.__del__ at 0x7bc8b4789080>
+Traceback (most recent call last):
+  File "/kaggle/temp/venv311/lib/python3.11/site-packages/mujoco/egl/__init__.py", line 139, in __del__
+  File "/kaggle/temp/venv311/lib/python3.11/site-packages/mujoco/egl/__init__.py", line 134, in free
+  File "/kaggle/temp/venv311/lib/python3.11/site-packages/OpenGL/error.py", line 230, in glCheckError
+OpenGL.raw.EGL._errors.EGLError: <exception str() failed>

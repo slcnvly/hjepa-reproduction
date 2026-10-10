@@ -1,0 +1,21 @@
+[90mHint: The `hf-cli` skill is not installed. Run `hf skills add -g` to teach your AI agents how to use the `hf` CLI.[0m
+
+Fetching 5 files:   0%|          | 0/5 [00:00<?, ?it/s]Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+
+Fetching 5 files:  20%|██        | 1/5 [00:00<00:01,  2.67it/s]
+Fetching 5 files:  40%|████      | 2/5 [00:01<00:03,  1.10s/it]
+Fetching 5 files:  60%|██████    | 3/5 [00:02<00:01,  1.38it/s]
+Fetching 5 files:  80%|████████  | 4/5 [00:05<00:01,  1.76s/it]
+Fetching 5 files: 100%|██████████| 5/5 [00:05<00:00,  1.21s/it]
+Fetching 5 files: 100%|██████████| 5/5 [00:05<00:00,  1.17s/it]
+[32m✓ Downloaded[0m
+  path: /kaggle/temp/H-JEPA/h_jepa/assets
+-rw-r--r-- 1 root root 155119789 Oct 10 07:02 assets/eval_trajs/ant/expert_grid_d3_n50.pt
+-rw-r--r-- 1 root root 573644209 Oct 10 07:02 assets/eval_trajs/fourroom/fourroom_tp35_cross2_goal75_n50_d1.pt
+-rw-r--r-- 1 root root 152425457 Oct 10 07:02 assets/eval_trajs/ogbench/goal_offset_20_pickup_val.pt
+-rw-r--r-- 1 root root 564814221 Oct 10 07:02 assets/eval_trajs/pusht/goal_offset_75_val.pt
+-rw-r--r-- 1 root root       402 Oct 10 07:02 assets/eval_trajs/SHA256SUMS
+ant/expert_grid_d3_n50.pt: OK
+fourroom/fourroom_tp35_cross2_goal75_n50_d1.pt: OK
+ogbench/goal_offset_20_pickup_val.pt: OK
+pusht/goal_offset_75_val.pt: OK
